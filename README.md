@@ -6,10 +6,8 @@
   </div>
  <div class="textContainer">
  <h1>Hi I'm Haley Thinkful</h1>
-    <p> </p>
+    <p> I am an aspiring Designer living in Denver, Colorado.</p>
     <ul>
-      <li>Portfolio</li>
-      <p> </p>
       <li>About</li>
       <li>Contact</li>
     </ul>
