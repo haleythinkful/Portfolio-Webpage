@@ -5,13 +5,15 @@
     <img src="images/thinkful profile picture.jpg" alt="" /> 
   </div>
  <div class="textContainer">
- <h1>Haley Lemmons | Designer</h1>
+ <h1>Hi I'm Haley Thinkful</h1>
     <p> </p>
     <ul>
-      <li>Portfolio </li>
-      <li>About Me </li>
+      <li>Portfolio</li>
+      <p> </p>
+      <li>About</li>
       <li>Contact</li>
     </ul>
   </div>
+
 
 
