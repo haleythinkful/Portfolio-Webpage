@@ -1,6 +1,6 @@
 # Portfolio-Webpage
 
-<!DOCTYPE html>
+<!Documenttypehtml
   <html>
     <head>
     <meta charset="utf-8">
@@ -86,7 +86,7 @@
       <footer>
         <a href="http://twitter.com/lemmonsayana"><img src="img2/twitter-wrap.png" alt="Twitter Logo"></a>
            <a href="http://facebook.com/haley.lemmons.3"><img src="img2/facebook-wrap.png" alt="Facebook Logo"></a>
-      <p>&copy; 2014 Haley Lemmons.</p>
+      <p>&copy; 2020 Haley Lemmons.</p>
       </footer>
       </body>
   </html>
