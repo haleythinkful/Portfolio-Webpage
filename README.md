@@ -1,5 +1,5 @@
 # Portfolio-Webpage
-  
+ ![flowers-01](https://user-images.githubusercontent.com/66927533/84826997-0edba700-afe1-11ea-8f1e-04a79ceb5209.jpg) ![flowers-02](https://user-images.githubusercontent.com/66927533/84827014-1307c480-afe1-11ea-86a9-bc0b61d1b307.jpg) ![flowers-03](https://user-images.githubusercontent.com/66927533/84827050-1f8c1d00-afe1-11ea-811e-868db34f746e.jpg) ![flowers-04](https://user-images.githubusercontent.com/66927533/84827056-22870d80-afe1-11ea-955f-14538aed0bea.jpg) ![flowers](https://user-images.githubusercontent.com/66927533/84827061-2450d100-afe1-11ea-9a86-f2d1b15aea5e.jpg) ![flowers butterfly](https://user-images.githubusercontent.com/66927533/84827065-26b32b00-afe1-11ea-8019-13154dfbab8d.jpg) ![flowers with watercolor](https://user-images.githubusercontent.com/66927533/84827080-29ae1b80-afe1-11ea-84cd-db9ab0a4ae26.jpg) ![flowers stenciled in Google](https://user-images.githubusercontent.com/66927533/84827084-2c107580-afe1-11ea-9d8a-0e42113b36c5.jpg)  
   <html>
     <head>
     <meta charset="utf-8">
@@ -27,7 +27,7 @@
         <li>
           <a href="img2/flowers-01.jpg">
             <img src="img2/flowers-01.jpg" alt="">
-    <p>Experimentation with color and texture.
+      <p>Experimentation with color and texture.
             </p>
             </a>
           </li>
