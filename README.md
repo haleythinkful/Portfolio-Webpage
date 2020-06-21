@@ -24,5 +24,3 @@ Web Designer and Software Devoloper
       <li align="center">Contact</li>
     </ul>
   </div>
-
-
