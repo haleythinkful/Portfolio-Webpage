@@ -1,4 +1,4 @@
-#  Portfolio Webpage
+#  Haley Thinkful Web Designer and Software Devoloper
 ![Thinkful Profile Picture](https://user-images.githubusercontent.com/66927533/84830583-da6ae980-afe6-11ea-933d-46e98f095aa6.jpg)
 <div class="pageContainer">
   <div class="imageContainer"> 
@@ -6,7 +6,7 @@
   </div>
  <div class="textContainer">
 <h1 align="center">Hi I'm Haley Thinkful</h1>
-<p align="center">I am an aspiring Designer living in Denver, Colorado.</p>
+<p align="center">I am an aspiring Designer and Software Developer living in Denver, Colorado.</p>
    <p align="center"> As a life-long-learner, I am interested in: </p>
    <ul align="center">
    <li align="center">Web Design and Web Deveolopment</li> 
