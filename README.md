@@ -1,4 +1,4 @@
-#  <b> Portfolio Webpage</b></p>
+#  <h1 align="center"><b> Portfolio Webpage</b></h1>
 ![Thinkful Profile Picture](https://user-images.githubusercontent.com/66927533/84830583-da6ae980-afe6-11ea-933d-46e98f095aa6.jpg)
 <div class="pageContainer">
   <div class="imageContainer"> 
@@ -7,20 +7,20 @@
  <div class="textContainer">
 <h1 align="center">Hi I'm Haley Thinkful</h1>
 <p align="center">I am an aspiring Designer living in Denver, Colorado.</p>
-<p align="center"> As a life-long-learner, I am interested in: 
-   <p align="center"><ul></p>
-   <p align="center"><li>Web Design and Web Deveolopment</li> </p>
-   <p align="center"><li>Logo Design and Quality Code</li></p>
-      <li>Software Design and Software Development</li></p>
-      <li>Designing and Building Apps with like-minded and many unique developers! </li></p>
+   <p align="center"> As a life-long-learner, I am interested in: </p>
+   <ul align="center">
+   <li align="center">Web Design and Web Deveolopment</li> 
+   <li align="center">Logo Design and Quality Code</li>
+      <li align="center">Software Design and Software Development</li>
+      <li align="center">Designing and Building Apps with like-minded and many unique developers! </li>
    </ul>
    
- I'm deeply motivated no matter what to never give up on writing code and coming with numerous ideas for designing websites, logos, software, mobile apps, and much more.</p>
+ <p align="center"> I'm deeply motivated no matter what to never give up on writing code and coming with numerous ideas for designing websites, logos, software, mobile apps, and much more.</p>
  
- <p align="center"> Please take a look at my website and feel free to Contact Me!
-    <ul>
-     <p align="center"> <li>About</li>
-      <li>Contact</li></p>
+ <p align="center"> Please take a look at my website and feel free to Contact Me!</p>
+    <ul align="center">
+      <li align="center">About</li>
+      <li align="center">Contact</li>
     </ul>
   </div>
   
