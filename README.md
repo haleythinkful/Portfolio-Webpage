@@ -18,7 +18,7 @@
    
  <p align="center"> I'm deeply motivated no matter what to never give up on writing code and coming with numerous ideas for designing websites, logos, software, mobile apps, and much more.</p>
  
- <p align="center"> Please take a look at my website and feel free to Contact Me!</p>
+ <p align="center"> Please take a look at my website and feel free to <b>Contact Me!</b></p>
     <ul align="center">
       <li align="center">About</li>
       <li align="center">Contact</li>
