@@ -7,7 +7,7 @@
   </div>
  <div class="textContainer">
 <h1 align="center">Hi I'm Haley Thinkful</h1>
-<p align="center">I am an aspiring Designer and Software Developer living in Denver, Colorado.</p>
+<p align="center">I am an aspiring Web Designer and Software Developer living in Denver, Colorado.</p>
    <p align="center"> As a life-long-learner, I am interested in: </p>
    <ul align="center">
    <li align="center">Web Design and Web Deveolopment</li> 
