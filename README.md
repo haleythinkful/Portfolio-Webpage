@@ -5,6 +5,7 @@ Web Designer and Software Devoloper
   <div class="imageContainer"> 
     <img src="images/thinkful profile picture.jpg" alt="" /> 
   </div>
+  <body style="background-color:lilac;">
  <div class="textContainer">
 <h1 align="center">Hi I'm Haley Thinkful</h1>
 <p align="center">I am an aspiring Web Designer and Software Developer living in Denver, Colorado.</p>
@@ -32,3 +33,4 @@ Web Designer and Software Devoloper
     </ol>
    </ul>
   </div>
+</body>
