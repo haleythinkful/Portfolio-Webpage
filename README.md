@@ -26,10 +26,9 @@ Web Designer and Software Devoloper
   
 <li align="center">Contact Haley</li>
 <p align="center"> I'd love to hear from you! Please feel free to contact or follow me. 
-   <ol>
+   <ol aligin="center">
      1. LinkedIn
      2. GitHub
-     
-     
+    </ol>
    </ul>
   </div>
