@@ -29,7 +29,6 @@ Web Designer and Software Devoloper
    <ol aligin="center">
      1. LinkedIn
      2. GitHub
-     ![flowers-01](https://user-images.githubusercontent.com/66927533/84826997-0edba700-afe1-11ea-8f1e-04a79ceb5209.jpg)
     </ol>
    </ul>
   </div>
