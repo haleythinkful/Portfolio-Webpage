@@ -20,8 +20,11 @@ Web Designer and Software Devoloper
  
  <p align="center"> Please take a look at my website and feel free to <b>Contact Me!</b></p>
     <ul align="center">
-      <li align="center">About</li>
-  <h1 align="center">About Haley</h1>
-      <li align="center">Contact</li>
+      <li align="center">About Haley</li>
+ <p align="center"> During and After graduating college, I began developing more of my skills and learning more programming languages through Treehouse. I learned HTML, CSS, Python, and JavaScript so far! I'm really excited and grateful in hopefully becomming a thinkful student. As a thinkful student, I will have begun my journey in becoming a software developer and couldn't be happier! If you're looking to hire a new Web Designer and Software Developer please reach out! I am so excited to work with other designers and developers to build wonderful websites and great software. 
+  </p>   
+  
+  
+      <li align="center">Contact Haley</li>
     </ul>
   </div>
