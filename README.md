@@ -21,6 +21,7 @@ Web Designer and Software Devoloper
  <p align="center"> Please take a look at my website and feel free to <b>Contact Me!</b></p>
     <ul align="center">
       <li align="center">About</li>
+  <h1 align="center">About Haley</h1>
       <li align="center">Contact</li>
     </ul>
   </div>
