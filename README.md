@@ -1,3 +1,7 @@
+<!DOCTYPE.html>
+<html>
+<header>
+
 # Haley Thinkful
 Web Designer and Software Devoloper
 ![Thinkful Profile Picture](https://user-images.githubusercontent.com/66927533/84830583-da6ae980-afe6-11ea-933d-46e98f095aa6.jpg)
@@ -5,9 +9,6 @@ Web Designer and Software Devoloper
   <div class="imageContainer"> 
     <img src="images/thinkful profile picture.jpg" alt="" /> 
   </div>
-<!DOCTYPE.html>
-<html>
-    <header>
   <body style="background-color:lilac;">
  <div class="textContainer">
 <h1 align="center">Hi I'm Haley Thinkful</h1>
@@ -37,7 +38,12 @@ Web Designer and Software Devoloper
    </ul>
   </div>
   </header>
-</body>
+
 <footer>
+  
+  
+  
+  
 </footer>
+</body>
 </html>
