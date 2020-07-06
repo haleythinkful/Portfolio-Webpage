@@ -1,4 +1,4 @@
-<!DOCTYPE.html>
+<!DOCTYPE.HTML>
 <html>
 # Haley Thinkful
 Web Designer and Software Devoloper
