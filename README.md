@@ -26,7 +26,7 @@ Web Designer and Software Devoloper
  <p align="center"> During and After graduating college, I began developing more of my skills and learning more programming languages through Treehouse. I learned HTML, CSS, Python, and JavaScript so far! I'm really excited and grateful in hopefully becomming a thinkful student. As a thinkful student, I will have begun my journey in becoming a software developer and couldn't be happier! If you're looking to hire a new Web Designer and Software Developer please reach out! I am so excited to work with other designers and developers to build wonderful websites and great software. 
   </p>   
   
-<li align="center">Contact Haley</li>
+<h3 align="center">Contact Haley</h3>
 <p align="center"> I'd love to hear from you! Please feel free to contact or follow me. 
    <ol aligin="center">
      1. LinkedIn
@@ -35,3 +35,5 @@ Web Designer and Software Devoloper
    </ul>
   </div>
 </body>
+<footer>
+</footer
