@@ -6,6 +6,8 @@ Web Designer and Software Devoloper
   <div class="imageContainer"> 
     <img src="images/thinkful profile picture.jpg" alt="" /> 
   </div>
+  <html>
+    <header>
   <body style="background-color:lilac;">
  <div class="textContainer">
 <h1 align="center">Hi I'm Haley Thinkful</h1>
@@ -34,6 +36,7 @@ Web Designer and Software Devoloper
     </ol>
    </ul>
   </div>
+  </header>
 </body>
 <footer>
 </footer>
