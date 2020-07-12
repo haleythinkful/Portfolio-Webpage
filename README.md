@@ -37,10 +37,9 @@ Web Designer and Software Devoloper
 
 
 <footer>
-  
-  
-  
- 
+<a href="http://linkedin.com/haley-lemmons"><img src="img2/linkedin-wrap.png" alt="LinkedIn Logo"></a>
+<a href="http://github.com/haleythinful"><img src="img2/github-wrap.png" alt="Github Logo"></a>
+<p>&copy; 2020 Haley Thinkful.</p>
 </footer>
 </body>
 </html>
