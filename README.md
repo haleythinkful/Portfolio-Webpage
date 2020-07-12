@@ -32,7 +32,6 @@ Web Designer and Software Devoloper
      2. GitHub
      3. Twitter
      4. Facebook
-     
     </ol>
    </ul>
   </div>
