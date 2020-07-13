@@ -2,7 +2,9 @@
 Web Designer, Web Developer, and Software Devoloper
   <div class="pageContainer">
   <div class="imageContainer"> 
-    <img src="images/thinkful profile picture.jpg" alt="" /> 
+    <img src="./Portfolio Webage/Portfolio Webpage/img2/HaleyThinkful_Profile_Picture.jpg" alt="HaleyThinkful_Profile_Picture.jpg"/> 
+    <img src="./Portfolio Webage/Portfolio Webpage/img2/" alt="" />
+    <img src="./Portfolio Webage/Portfolio Webpage/img2/" alt="" />
   </div>
   <body style="background-color:lilac;">
  <div class="textContainer">
