@@ -4,7 +4,7 @@ Web Designer, Web Developer, and Software Devoloper
   <div class="imageContainer"> 
     <img src="./Portfolio Webage/Portfolio Webpage/img2/HaleyThinkful_Profile_Picture.jpg" alt="HaleyThinkful_Profile_Picture.jpg"/> 
     <img src="./Portfolio Webage/Portfolio Webpage/img2/Web developer & Web designer venn diagram.png" alt="Web developer & Web designer venn diagram.png" />
-    <img src="./" alt="" />
+    <img src="./Portfolio Webage/Portfolio Webpage/img2/Software Developer.png" alt="Software Developer.png" />
   </div>
   <body style="background-color:lilac;">
  <div class="textContainer">
