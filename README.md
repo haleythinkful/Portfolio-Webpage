@@ -2,11 +2,12 @@
 Web Designer, Web Developer, and Software Devoloper
   <div class="pageContainer">
   <div class="imageContainer"> 
-    <img src="./Portfolio Webage/Portfolio Webpage/img2/HaleyThinkful_Profile_Picture.jpg" alt="HaleyThinkful_Profile_Picture.jpg"/> 
-    <img src="./Portfolio Webage/Portfolio Webpage/img2/Web developer & Web designer venn diagram.png" alt="Web developer & Web designer venn diagram.png" />
-    <img src="./Portfolio Webage/Portfolio Webpage/img2/Software Developer.png" alt="Software Developer.png" />
+    <img src="./Portfolio Webage/Portfolio Webpage/img2/HaleyThinkful_Picture.jpg" alt="HaleyThinkful_Picture.jpg"/> 
+    <img src="./Portfolio Webage/Portfolio Webpage/img2/Web developer & Web designer_venn diagram.png" alt="Web developer & Web designer_venn diagram.png" />
+    <img src="./Portfolio Webage/Portfolio Webpage/img2/Better Software Developer.png" alt="Better Software Developer.png" />
   </div>
-  <body style="background-color:lilac;">
+  <body style="background-color:black;">
+    <text color gray;>
  <div class="textContainer">
 <h1 align="center">Hi I'm Haley Thinkful</h1>
 <p align="center">I am an aspiring Web Designer, Web Developer, and Software Developer living in Denver, Colorado.</p>
