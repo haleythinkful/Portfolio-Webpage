@@ -7,7 +7,7 @@ Web Designer, Web Developer, and Software Devoloper
     <img src="./Portfolio Webage/Portfolio Webpage/img2/Better Software Developer.png" alt="Better Software Developer.png" />
   </div>
   <body style="background-color:black;">
-    <text color gray;>
+    <text color = gray;>
  <div class="textContainer">
 <h1 align="center">Hi I'm Haley Thinkful</h1>
 <p align="center">I am an aspiring Web Designer, Web Developer, and Software Developer living in Denver, Colorado.</p>
