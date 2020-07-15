@@ -137,5 +137,6 @@ header {
 }
   
 h1, h2{
-  color:#fff;
+  background-color: #000;
+  color: #6ab47b;
 }
