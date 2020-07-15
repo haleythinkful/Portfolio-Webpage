@@ -127,10 +127,10 @@ nav a.selected, nav a:hover{
   color:#32673f;
 }
 
-/* green header */
+/* white header */
 header {
   background:#6ab47b;
-  border-color:#599a68;
+  border-color:#FFF;
 }
     a {
   color:#6ab47b;
