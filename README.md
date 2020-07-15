@@ -6,7 +6,7 @@ Web Designer, Web Developer, and Software Devoloper
     <img src="./Portfolio Webage/Portfolio Webpage/img2/Web developer & Web designer_venn diagram.png" alt="Web developer & Web designer_venn diagram.png" />
     <img src="./Portfolio Webage/Portfolio Webpage/img2/Better Software Developer.png" alt="Better Software Developer.png" />
   </div>
-  <body style="background-color:black;">
+  <body style= "background-color: #E6E6FA;">
     <text color = gray;>
  <div class="textContainer">
 <h1 align="center">Hi I'm Haley Thinkful</h1>
