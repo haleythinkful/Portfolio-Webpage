@@ -115,8 +115,8 @@ COLORS
 
 /* site body */
 body {
-  background-color:#808080;
-  color: 	#808080;
+  background-color:#E6E6FA;
+  color: 	#E6E6FA;
 }
 
   /* nav link */
@@ -132,7 +132,7 @@ nav a.selected, nav a:hover{
 
 /* white header */
 header {
-  background:#6ab47b;
+  background:#FFF;
   border-color:#FFF;
 }
     a {
