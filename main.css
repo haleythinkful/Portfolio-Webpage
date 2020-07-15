@@ -52,6 +52,9 @@ a {
   color:#6ab47b;
 }
 
+p {
+color: #fff;
+}
   
 h1, h2{
   color:#fff;
@@ -136,7 +139,10 @@ header {
   color:#6ab47b;
 }
   
-h1, h2, p{
+h1, h2{
   background-color: #000;
   color: #6ab47b;
+}
+p {
+  color: #fff;
 }
