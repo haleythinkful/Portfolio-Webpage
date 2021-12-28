@@ -1,4 +1,4 @@
-  # Haley Thinkful
+  # Haley Lemmons
 Web Designer, Web Developer, and Software Devoloper
   <div class="pageContainer">
   <div class="imageContainer"> 
@@ -9,7 +9,7 @@ Web Designer, Web Developer, and Software Devoloper
   <body style= "background-color: #E6E6FA;">
     <text color = gray;>
  <div class="textContainer">
-<h1 align="center">Hi I'm Haley Thinkful</h1>
+<h1 align="center">Hi I'm Haley Lemmons</h1>
 <p align="center">I am an aspiring Web Designer, Web Developer, and Software Developer living in Denver, Colorado.</p>
    <p align="center"> As a life-long-learner, I am interested in: </p>
    <ul align="center">
@@ -45,7 +45,7 @@ Web Designer, Web Developer, and Software Devoloper
 <a href="http://facebook.com/haley.lemmons.3"><img src="./Portfolio Webage/Portfolio Webpage/img2/facebook-wrap.png" alt="Facebook Logo"></a>    
 <a href="http://linkedin.com/in/haley-lemmons-22a638a8/"><img src="./Portfolio Webage/Portfolio Webpage/img2/Linkedin_Logo.png" alt="Linkedin Logo"></a>
 <a href="http://github.com/haleythinkful"><img src = "./Portfolio Webage/Portfolio Webpage/img2/Github_Logo.png" alt="Github Logo"></a>
-<p>&copy; 2020 Haley Thinkful.</p>
+<p>&copy; 2020 Haley Lemmons.</p>
 </footer>
 </body>
 </html>
